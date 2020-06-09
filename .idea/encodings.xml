@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/library/domain/AdminBean.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/library/domain/BookInfoBean.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/library/domain/BookShelvesBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/library/domain/BookTypeBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/library/domain/BorrowBean.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/library/domain/UserInfoBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/META-INF" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/adminabout.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/adminhome.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/bookdetail.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/contact.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/content" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/content/images/back4.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/score.css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/style1.css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/donatebook.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/edittype.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/images" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/images/error.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/images/errorIcon .png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/images/errorIcon.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/images/old2.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/login.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/managebooks.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/manageuser.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/register.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/rsearchbookresult.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/scripts" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/searchbooks.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/userinfo.jsp" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
