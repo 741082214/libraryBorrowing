@@ -1,0 +1,2 @@
+# libraryBorrowing
+基于Spring、SpringMVC、Mybatis开发的图书馆借阅系统，分为读者模块和管理员模块
